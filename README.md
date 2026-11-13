@@ -74,3 +74,7 @@ This repository collects literature reviews, terminology, research notes, and re
 4. 阶段性学习总结与后续研究计划。
 
 **Note:** 本项目包含量子算法、经典 AI 算法以及量子启发式计算方法。相关论文将根据实际使用的算法和计算资源进行区分。
+
+## 6. Experimental Projects | 实验项目
+
+- [QML/QNN Learning](https://github.com/fancysu/QML-QNN-Learning)：基于 PennyLane 和 PyTorch 的量子机器学习实验，包括 Iris 分类、MNIST 识别与小样本学习对比。
