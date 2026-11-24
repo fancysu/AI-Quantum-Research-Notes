@@ -14,6 +14,16 @@
 | 源代码 | [GitHub](https://github.com/Aqasch/TensorRL-QAS) |
 | 复现状态 | 待复现 |
 
+| 硬件 | 本论文实验配置 |
+| --- | --- |
+| CPU | MD EPYC Rome 7H12 |
+| CPU 架构 | AMD Zen 2 |
+| CPU 资源分配 | 2 CPUs |
+| GPU | NVIDIA A100 |
+| GPU 架构 | Ampere |
+| GPU 显存上限 | 40 GB |
+| CPU 内存分配 | 每 CPU 最大 4 GB |
+| 量子模拟器 | Qulacs |
 ## 2. 研究背景与问题
 
 量子架构搜索（Quantum Architecture Search，QAS）旨在自动设计适合特定计算任务的量子电路，包括量子门类型、作用位置、连接方式和电路深度。
